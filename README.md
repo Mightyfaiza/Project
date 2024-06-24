@@ -1,2 +1,1 @@
-# Project
-First Project on Git Hub
+# First project on GitHub
